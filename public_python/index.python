@@ -1,0 +1,4 @@
+real=float(input('moeda de origem'))
+dolar=float(input('moeda de destino'))
+resultado=real/dolar
+a cotaçao do dolar na presente data é R$ {}, e eu tenho R$ {},que vai me proporcinar U$ {:.2f}'.format(dolar,real,resultado))
